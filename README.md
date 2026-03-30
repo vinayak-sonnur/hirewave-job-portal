@@ -1,9 +1,23 @@
-\## HireWave - Job Portal Web Application
+# HireWave Job Portal
 
-## TechStack
+## Tech Stack
+- Java, Spring Boot
+- React
+- MongoDB
 
-* Java
-* Spring Boot
-* React
-* REST APIs
-* MongoDB
+## Features
+- User Authentication
+- Job Posting & Apply
+- REST APIs
+- Swagger API Docs
+
+## How to Run
+
+### Backend
+cd backend
+mvn spring-boot:run
+
+### Frontend
+cd frontend
+npm install
+npm start
